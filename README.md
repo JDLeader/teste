@@ -2,7 +2,7 @@
 
 
 
-Olá Mundo! Bem Vindos:wave:
+Olá Mundo! Bem Vindos
 
 - Mais uma alteração
 - ou duas
